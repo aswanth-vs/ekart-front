@@ -6,7 +6,7 @@ import { BehaviorSubject } from 'rxjs';
   providedIn: 'root',
 })
 export class ApiService {
-  BASE_URL = 'https://ecommerce-2rx7.onrender.com/';
+  BASE_URL = 'https://ecommerce-2rx7.onrender.com';
 
   constructor(private http: HttpClient) {
     this.cartCount();

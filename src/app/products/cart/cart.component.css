@@ -1,0 +1,18 @@
+.icon {
+  cursor: pointer;
+}
+
+.cartDisplay {
+  padding-top: 5%;
+}
+
+.row {
+  justify-content: space-between;
+  padding-inline: 1em;
+}
+
+#delivery {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

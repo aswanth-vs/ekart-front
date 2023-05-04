@@ -1,0 +1,11 @@
+@media (min-width: 992px) {
+  input {
+    width: 250%;
+  }
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
